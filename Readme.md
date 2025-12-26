@@ -81,7 +81,7 @@ pytest tests/test_example.py
 
 Contributions are welcome.
 
-Please read **[CONTRIBUTING.md](CONTRIBUTING.md)** before opening an issue or pull request.
+Please read **[CONTRIBUTING.md](docs/CONTRIBUTING.md)** before opening an issue or pull request.
 
 Key rules:
 - All functions must include tests
